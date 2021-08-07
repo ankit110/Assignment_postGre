@@ -1,0 +1,14 @@
+This is json file to pass data through Postman in Json format :
+
+[insert]
+{
+    "table_name" : "employee",
+    "Emp_Name" : "Ankit Kumar",
+    "Dep_Id" : 1,
+    "Dep_Name" : "Data Science"
+
+    "table_name" : "employee"
+    "Emp_name"   : "Ayush Pawar"
+    "Dep_Id"     : 2
+    "Dep_name    : "Data Science"
+}
